@@ -1,10 +1,21 @@
 30-Day Debugging Course
-Week 1: Introduction to Debugging & Basic Techniques
 
+Welcome to the 30-Day Debugging Course! This course is designed to help you improve your debugging skills and become more efficient at identifying and fixing bugs in your code. Over the next 30 days, you'll be guided through different debugging strategies, tools, and common issues that developers face.
+
+Feel free to fork this repository and track your progress by completing the exercises and referring to the resources provided.
+Table of Contents
+
+    Week 1: Introduction to Debugging & Basic Techniques
+    Week 2: Debugging Tools and IDEs
+    Week 3: Debugging Common Issues
+    Week 4: Advanced Debugging & Debugging Strategy
+    Additional Tools & Resources
+
+Week 1: Introduction to Debugging & Basic Techniques
 Day 1-2: Introduction to Debugging
 
     Topics:
-        Understand the importance of debugging.
+        Importance of debugging.
         Types of bugs: logical errors, syntax errors, runtime errors.
         Debugging process: Identify, Isolate, Fix, Test.
     Resources:
@@ -32,7 +43,6 @@ Day 5-7: Manual Debugging Techniques
         Video: Manual Debugging Techniques by Code Bullet.
 
 Week 2: Debugging Tools and IDEs
-
 Day 8-10: Introduction to Debugging Tools
 
     Topics:
@@ -63,7 +73,6 @@ Day 14-15: Working with Logs
         Video: Logging in Python for Beginners by Tech with Tim.
 
 Week 3: Debugging Common Issues
-
 Day 16-17: Memory Issues
 
     Topics:
@@ -93,7 +102,6 @@ Day 20-21: Concurrency Issues
         Video: Race Conditions & Deadlocks by Software Engineering Daily.
 
 Week 4: Advanced Debugging & Debugging Strategy
-
 Day 22-23: Debugging in Production
 
     Topics:
@@ -144,7 +152,7 @@ Day 30: Debugging Mindset and Best Practices
         Debugging Best Practices
         Video: Effective Debugging Strategies by Tech with Tim.
 
-Additional Tools & Resources:
+Additional Tools & Resources
 
     IDE Debugging Tools: Visual Studio Code, PyCharm, IntelliJ IDEA.
     Command-Line Tools: gdb, lldb (C/C++), pdb (Python).
@@ -152,4 +160,6 @@ Additional Tools & Resources:
     Performance Profiling: cProfile (Python), gprof (C/C++), Chrome DevTools (JavaScript).
     Online Debugging Platforms: GDB Online, Python Tutor.
 
-By following this course, you’ll gain hands-on experience with both basic and advanced debugging strategies across different languages. These resources, along with videos, will help you sharpen your skills and make debugging an essential part of your development process.
+Contributing
+
+Feel free to contribute additional resources, videos, or exercises to this repository. Create a pull request with your improvements!
